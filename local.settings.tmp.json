@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "<Update this for local testing>",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "ACCOUNT_NAME":"<Update this for local testing>",
+      "ACCOUNT_KEY":"<Update this for local testing>"  
+    }
+  }
