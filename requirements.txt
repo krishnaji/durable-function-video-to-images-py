@@ -2,3 +2,5 @@ azure-functions
 azure-functions-durable
 azure-storage-blob
 opencv-python
+scikit-image
+imutils
