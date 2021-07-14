@@ -1,5 +1,7 @@
 # [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview) : Extract frames/images from Video
 
+![](https://raw.githubusercontent.com/krishnaji/durable-function-video-to-images-py/main/vid2img.jpg)
+
 This application uses Azure Durable functions, Blob Storage, Event Grid and OpenCV-Python
 
 ## Create Storage Account
